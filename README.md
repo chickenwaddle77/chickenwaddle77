@@ -3,6 +3,6 @@
 below are some of my personal and group projects. 
 
 <p align="left">
-    <img src="https://skillicons.dev/icons?i=py,opencv,pytorch,tensorflow,cpp,latex,typescript,figma,django,matlab,mysql" />
-    <img src="https://skillicons.dev/icons?i=react,tailwind,sklearn,nodejs,heroku,java,js,gcp,firebase,go,vercel" />
+    <img src="https://skillicons.dev/icons?i=py, java, c, js, postgres, swift, r, latex" />
+    <img src="https://skillicons.dev/icons?i=react, azure, git, github, figma, django, docker, postman, flask, html, css, pytorch" />
 </p>
